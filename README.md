@@ -1,2 +1,3 @@
-# ip
-Introducao a Programacao
+# Introducao a Programacao
+
+Exercicios implementados como parte da disciplina.
