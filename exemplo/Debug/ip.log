@@ -1,0 +1,3 @@
+﻿  EX1.c
+C:\Users\fabio\source\repos\ip\EX1\EX1.c(17,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  ip.vcxproj -> C:\Users\fabio\source\repos\ip\Debug\ip.exe
