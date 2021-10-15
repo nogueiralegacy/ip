@@ -1,0 +1,4 @@
+﻿  EX2.c
+C:\Users\fabio\ip\t02\EX2.c(8,36): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fabio\ip\t02\EX2.c(10,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  t02.vcxproj -> C:\Users\fabio\ip\exemplo\Debug\t02.exe
