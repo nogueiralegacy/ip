@@ -1,3 +1,0 @@
-﻿  EX1.c
-C:\Users\fabio\ip\t01\EX1.c(19,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
-  t01.vcxproj -> C:\Users\fabio\ip\exemplo\Debug\t01.exe

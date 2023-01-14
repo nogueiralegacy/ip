@@ -1,8 +1,0 @@
-﻿  EX3.c
-C:\Users\fabio\ip\t03\EX3.c(12,21): warning C4554: '&': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
-C:\Users\fabio\ip\t03\EX3.c(12,30): warning C4554: '&': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
-C:\Users\fabio\ip\t03\EX3.c(12,38): warning C4554: '&': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
-C:\Users\fabio\ip\t03\EX3.c(12,47): warning C4554: '&': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
-C:\Users\fabio\ip\t03\EX3.c(12,54): warning C4554: '&': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
-C:\Users\fabio\ip\t03\EX3.c(14,15): warning C4013: 'abs' indefinido; assumindo extern retornando int
-  t03.vcxproj -> C:\Users\fabio\ip\exemplo\Debug\t03.exe
