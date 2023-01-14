@@ -1,3 +1,3 @@
-# Introducao a Programacao
+# Disciplina de Introduçã da computação - 2021 UFG
 
-Exercicios implementados como parte da disciplina.
+Exercícios voltados para o aprendizado de programação feitos em C.
